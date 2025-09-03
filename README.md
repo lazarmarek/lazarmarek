@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&duration=4000&pause=800&color=16BD0F&center=true&width=435&lines=Hi+there!+I%E2%80%99m+Marek+%F0%9F%91%8B;let's+make+sense+of+data+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&duration=4000&pause=800&color=16BD0F&center=true&vCenter=true&width=435&lines=Hi+there!+I%E2%80%99m+Marek+%F0%9F%91%8B;let's+make+sense+of+data+together!)](https://git.io/typing-svg)
 
 <h2 align="center"> MSc Behavioural Data Science | AI, ML & Data Science | Experimenting, Learning, Delivering </h2>
 
