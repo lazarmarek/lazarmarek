@@ -4,7 +4,7 @@
 
 ---
 
-![Machine Learning](./assets/machine-learning.jpeg)  
+![Machine Learning](./assets/machine-learning.jpg)  
 
 
 ---
