@@ -4,11 +4,11 @@
 <h2 align="center"> ´MSc Behavioural Data Science | AI, ML & Data Science | Experimenting, Learning, Delivering 🔭´ </h2>
 
 
-### 🤫 _Shhh… let the models do the talking_
+### 🤫 _Shhh… Quiet please..._
 
 ---
 
-![Machine Learning](./machine-learning.jpg)  
+![Machine Learning](./machine-learning2.jpg)  
 
 
 ---
@@ -41,15 +41,23 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 [**Multimodal RAG System**](#) – Retrieval-augmented system able to query text, tables & images | LangChain | ChromaDB | PyTorch | Docling | Hugging Face  
-🔹 [**Dementia Support Chatbot**](#) – Finetuned LLaMA 3.1 for more empathetic question answering | Hugging Face | PyTorch | NLP  
-🔹 [**Churn Prediction Model**](#) – Machine learning project predicting company churn with explainable features | Python | Pandas | Seaborn | scikit-learn | SHAP | Optuna  
-🔹 [**Chart Storytelling**](#) – Extracting charts + surrounding text from research articles to study context’s impact on interpretation | Python | PyMuPDF | NLP | Data Analysis  
-🔹 [**Data Consultancy Project**](#) – EDA & statistical modeling for cost-efficiency in tutoring programs | Python | Pandas | scikit-learn | Data Visualization   
+🔹 [**Multimodal RAG System**](#) – Retrieval-augmented system able to query text, tables & images 
+    | LangChain | ChromaDB | PyTorch | Docling | Unstructured | Hugging Face
+
+🔹 [**Dementia Support Chatbot**](#) – Finetuned LLaMA 3.1 for more empathetic question answering
+    | Hugging Face | PyTorch | TensorFlow | Pandas | NumPy
+
+🔹 [**Churn Analysis for Workspace 365 **](#) – Machine learning project predicting company churn with explainable features 
+    | Python | Pandas | Seaborn | scikit-learn | SHAP | Optuna | Pytorch | Postman
+
+🔹 [**Vision-Language Models, Charts & Interpretations**](#) – Extracting charts + surrounding text from research articles to study context’s impact on MLLMs' interpretative capabilities
+    | Python | Docling | NLP | Data & Statistical Analysis | RESTful APIs
+
+🔹 [**Data Consultancy Project**](#) – EDA & statistical modeling for cost-efficiency in tutoring programs
+    | R | SQL | Tidyverse | ggplot2 | e1071 | caret
 
 ## 📫 Let’s Connect!  
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio](#)  
-- 📧 marek@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mareklazar/)    
+- 📧 lazar.marek01@gmail.com  
 
 ---
