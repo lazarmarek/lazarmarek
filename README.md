@@ -1,6 +1,10 @@
-# Hi, I'm Marek Lazár 👋  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marek Lazár😎!;" />
+</h1>
+<h2 align="center"> ´MSc Behavioural Data Science | AI, ML & Data Science | Experimenting, Learning, Delivering 🔭´ </h2>
 
-### 🚀 I keep the machines learning
+
+### 🤫 _Shhh… let the models do the talking_
 
 ---
 
@@ -37,11 +41,11 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 [**Multimodal RAG System**](#) – Retrieval-augmented system able to query text, tables & images  
-🔹 [**Dementia Support Chatbot**](#) – Finetuned LLaMA 3.1 for more empathetic question answering  
-🔹 [**Churn Prediction Model**](#) – Machine learning project predicting company churn with explainable features  
-🔹 [**Chart Storytelling**](#) – Extracting charts + surrounding text from research articles to study context’s impact on interpretation  
-🔹 [**Data Consultancy Project**](#) – EDA & statistical modeling for cost-efficiency in tutoring programs  
+🔹 [**Multimodal RAG System**](#) – Retrieval-augmented system able to query text, tables & images | LangChain | ChromaDB | PyTorch | Docling | Hugging Face  
+🔹 [**Dementia Support Chatbot**](#) – Finetuned LLaMA 3.1 for more empathetic question answering | Hugging Face | PyTorch | NLP  
+🔹 [**Churn Prediction Model**](#) – Machine learning project predicting company churn with explainable features | Python | Pandas | Seaborn | scikit-learn | SHAP | Optuna  
+🔹 [**Chart Storytelling**](#) – Extracting charts + surrounding text from research articles to study context’s impact on interpretation | Python | PyMuPDF | NLP | Data Analysis  
+🔹 [**Data Consultancy Project**](#) – EDA & statistical modeling for cost-efficiency in tutoring programs | Python | Pandas | scikit-learn | Data Visualization   
 
 ## 📫 Let’s Connect!  
 - 💼 [LinkedIn](#)  
