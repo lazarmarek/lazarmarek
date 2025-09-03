@@ -56,6 +56,6 @@
 
 ## 📫 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mareklazar/)    
-- 📧 lazar.marek01@gmail.com  
+- 📧 [Send me an email](mailto:maillazar.marek01@gmail.com)
 
 ---
