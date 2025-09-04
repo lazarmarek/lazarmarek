@@ -1,11 +1,15 @@
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&size=42&duration=3500&pause=600&color=00F0F0&center=true&vCenter=true&width=900&height=150&lines=Hi+there!%F0%9F%91%8B+I'm+Marek+%F0%9F%99%82;let's+make+sense+of+data+together!" 
          alt="Typing SVG" />
   </a>
-</h1>
+</p>
 
-<h2 align="center"> Machine Learning Engineer | AI, ML & Data Science | Experimenting, Learning, Delivering </h2>
+---
+
+<h3 align="center"> Machine Learning Engineer | AI, ML & Data Science | Experimenting, Learning, Delivering </h3>
+
+---
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +32,7 @@
 
 ---
 
-## 💡 About Me  
+### 💡 About Me  
 
 - 🔭 Currently working on: **AI-driven projects, machine learning models, and data pipelines**  
 - 🌱 Currently learning: **OOP & SOLID best practices, MLflow, FastAPI, Docker, GCP, and AI Agents**  
@@ -37,7 +41,7 @@
 
 ---
 
-## 📂 Featured Projects  
+### 📂 Featured Projects  
 🔹 [**Multimodal RAG System**](https://github.com/lazarmarek/MM-RAG) – Retrieval-augmented system able to query text, tables & images  
 
     | 🐍 Python | 🔗 LangChain | 🗃️ ChromaDB | 🔥 PyTorch | 📑 Docling | 📂 Unstructured | 🤗 Hugging Face  
@@ -60,7 +64,7 @@
 
 ---
 
-## 📫 Let’s Connect!  
+### 📫 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mareklazar/)    
 - 📧 [Send me an email](mailto:maillazar.marek01@gmail.com)
 
