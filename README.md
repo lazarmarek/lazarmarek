@@ -1,25 +1,17 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&size=26&duration=4000&pause=800&color=16BD0F&width=600&height=80&lines=Hi+there!+I%E2%80%99m+Marek+%F0%9F%91%8B;let's+make+sense+of+data+together!" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&size=42&duration=3500&pause=600&center=true&vCenter=true&width=900&height=150&lines=Hi+there!%F0%9F%91%8B+I'm+Marek;let's+make+sense+of+data+together" 
          alt="Typing SVG" />
   </a>
 </h1>
 
 <h2 align="center"> MSc Behavioural Data Science | AI, ML & Data Science | Experimenting, Learning, Delivering </h2>
 
-
-<!-- This is a comment in Markdown
-### 🤫 _Shhh… Quiet please..._
----
-![Machine Learning](./machine-learning2.jpg)  
--->
-
-
 ---
 
 ## 💡 About Me  
 - 🔭 Currently working on: **AI-driven projects, machine learning models, and data pipelines**  
-- 🌱 Currently learning: **Clean code, OOP & SOLID best practices, MLflow, Docker, and AI Agents**  
+- 🌱 Currently learning: **Clean code, OOP & SOLID best practices, MLflow, Docker, GCP, and AI Agents**  
 - 🎯 Goal: **Build interpretable, scalable, and impactful AI systems**  
 - ⚡ Fun fact: I sometimes explain life decisions using confusion matrices 🤖  
 
@@ -60,8 +52,9 @@
 🔹 [**Data Consultancy Project (Private) **](#) – EDA & statistical modeling for cost-efficiency in tutoring programs
     | R | SQL | Tidyverse | ggplot2 | e1071 | caret
 
+---
+
 ## 📫 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mareklazar/)    
 - 📧 [Send me an email](mailto:maillazar.marek01@gmail.com)
 
----
