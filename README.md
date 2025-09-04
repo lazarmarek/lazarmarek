@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&size=42&duration=3500&pause=600&center=true&vCenter=true&width=900&height=150&lines=Hi+there!%F0%9F%91%8B+I'm+Marek;let's+make+sense+of+data+together" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&size=42&duration=3500&pause=600&color=00F0F0&center=true&vCenter=true&width=900&height=150&lines=Hi+there!%F0%9F%91%8B+I'm+Marek+%F0%9F%99%82;let's+make+sense+of+data+together!" 
          alt="Typing SVG" />
   </a>
 </h1>
@@ -31,7 +31,7 @@
 ## 💡 About Me  
 
 - 🔭 Currently working on: **AI-driven projects, machine learning models, and data pipelines**  
-- 🌱 Currently learning: **Clean code, OOP & SOLID best practices, MLflow, FastAPI, Docker, GCP, and AI Agents**  
+- 🌱 Currently learning: **OOP & SOLID best practices, MLflow, FastAPI, Docker, GCP, and AI Agents**  
 - 🎯 Goal: **Build interpretable, scalable, and impactful AI systems**  
 - ⚡ Fun fact: I sometimes explain life decisions using confusion matrices 🤖  
 
