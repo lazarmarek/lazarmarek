@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center"> Machine Learning Engineer | AI, ML & Data Science | Experimenting, Learning, Delivering </h3>
+<h2 align="center"> Machine Learning Engineer | AI, ML & Data Science | Experimenting, Learning, Delivering </h2>
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 💡 About Me  
+## 💡 About Me  
 
 - 🔭 Currently working on: **AI-driven projects, machine learning models, and data pipelines**  
 - 🌱 Currently learning: **OOP & SOLID best practices, MLflow, FastAPI, Docker, GCP, and AI Agents**  
@@ -41,7 +41,7 @@
 
 ---
 
-### 📂 Featured Projects  
+## 📂 Featured Projects  
 🔹 [**Multimodal RAG System**](https://github.com/lazarmarek/MM-RAG) – Retrieval-augmented system able to query text, tables & images  
 
     | 🐍 Python | 🔗 LangChain | 🗃️ ChromaDB | 🔥 PyTorch | 📑 Docling | 📂 Unstructured | 🤗 Hugging Face  
@@ -64,7 +64,7 @@
 
 ---
 
-### 📫 Let’s Connect!  
+## 📫 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mareklazar/)    
 - 📧 [Send me an email](mailto:maillazar.marek01@gmail.com)
 
