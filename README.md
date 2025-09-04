@@ -4,9 +4,7 @@
          alt="Typing SVG" />
   </a>
 </h1>
-
 <h2 align="center"> MSc Behavioural Data Science | AI, ML & Data Science | Experimenting, Learning, Delivering </h2>
-
 ---
 
 ## 💡 About Me  
