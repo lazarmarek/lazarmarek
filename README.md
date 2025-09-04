@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h2 align="center"> MSc Behavioural Data Science | AI, ML & Data Science | Experimenting, Learning, Delivering </h2>
+<h2 align="center"> Machine Learning Engineer | AI, ML & Data Science | Experimenting, Learning, Delivering </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,53 +31,32 @@
 ## 💡 About Me  
 
 - 🔭 Currently working on: **AI-driven projects, machine learning models, and data pipelines**  
-- 🌱 Currently learning: **Clean code, OOP & SOLID best practices, MLflow, Docker, GCP, and AI Agents**  
+- 🌱 Currently learning: **Clean code, OOP & SOLID best practices, MLflow, FastAPI, Docker, GCP, and AI Agents**  
 - 🎯 Goal: **Build interpretable, scalable, and impactful AI systems**  
 - ⚡ Fun fact: I sometimes explain life decisions using confusion matrices 🤖  
 
 ---
 
-<--
-## 🛠️ Tech & Tools  
-
-**Programming**  
-🐍 Python | 📊 R | 💾 SQL  
-
-**Data Analysis & Machine Learning**  
-📈 Hypothesis (A/B) Testing | 🤖 scikit-learn | 🎯 Optuna | 🔍 Clustering | 🧩 Model Explainability (SHAP)  
-
-**AI & RAG**  
-🧠 TensorFlow | 🔥 PyTorch | 🤗 Hugging Face | 🔗 LangChain | 🗃️ ChromaDB | 📑 Docling | 📂 Unstructured  
-
-**Data Processing & Visualization**  
-🔢 NumPy | 🐼 Pandas | 🔄 Tidyverse | 📊 Shiny | 📉 matplotlib | 🎨 seaborn | 📐 ggplot2  
-
-**APIs & Other Tools**  
-🌐 RESTful APIs | 🧑‍💻 Git | 🔄 CRISP-DM  
--->
-
----
-
 ## 📂 Featured Projects  
-🔹 [**Multimodal RAG System**](https://github.com/lazarmarek/MM-RAG) – Retrieval-augmented system able to query text, tables & images 
+🔹 [**Multimodal RAG System**](https://github.com/lazarmarek/MM-RAG) – Retrieval-augmented system able to query text, tables & images  
 
-    | LangChain | ChromaDB | PyTorch | Docling | Unstructured | Hugging Face
+    | 🐍 Python | 🔗 LangChain | 🗃️ ChromaDB | 🔥 PyTorch | 📑 Docling | 📂 Unstructured | 🤗 Hugging Face  
 
-🔹 [**Dementia Support Chatbot**](https://github.com/lazarmarek/dementia-chatbot) – Finetuned LLaMA 3.1 for more empathetic question answering
+🔹 [**Dementia Support Chatbot**](https://github.com/lazarmarek/dementia-chatbot) – Finetuned LLaMA 3.1 for more empathetic question answering  
 
-    | Hugging Face | PyTorch | TensorFlow | Pandas | NumPy
+    | 🐍 Python | 🤗 Hugging Face | 🔥 PyTorch | 🧠 TensorFlow | 🐼 Pandas | 🔢 NumPy  
 
-🔹 [**Vision-Language Models, Charts & Interpretations**](https://github.com/lazarmarek/UvA-Thesis-MLLMs-Charts-Contexts) – Extracting charts + surrounding text from research articles to study context’s impact on MLLMs' interpretative capabilities
+🔹 [**Vision-Language Models, Charts & Interpretations**](https://github.com/lazarmarek/UvA-Thesis-MLLMs-Charts-Contexts) – Extracting charts + surrounding text from research articles to study context’s impact on MLLMs' interpretative capabilities  
 
-    | Python | Docling | NLP | CV | EDA | A/B Testing | RESTful APIs
+    | 🐍 Python | 📑 Docling | 🔤 NLP | 👁️ CV | 📊 EDA | 🆎 A/B Testing | 🌐 RESTful APIs | 🤖 OpenAI API 
 
-🔹 [**Churn Analysis for Workspace 365 (Private)**](#) – Machine learning project predicting company churn with explainable features 
+🔹 [**Churn Analysis for Workspace 365 (Private)**]() – Machine learning project predicting company churn with explainable features  
 
-    | Python | Pandas | Seaborn | scikit-learn | EDA | A/B Testing | SHAP | Optuna | Pytorch | Postman | RESTful APIs
+    | 🐍 Python | 🐼 Pandas | 📊 Seaborn | 🤖 scikit-learn | 📊 EDA | 🆎 A/B Testing | 🧩 SHAP | 🎯 Optuna | 🔥 PyTorch | 📬 Postman | 🌐 RESTful APIs  
 
-🔹 [**Data Consultancy Project (Private)**](#) – EDA & statistical modeling for cost-efficiency in tutoring programs
+🔹 [**Data Consultancy Project (Private)**]() – EDA & statistical modeling for cost-efficiency in tutoring programs  
 
-    | R | SQL | Tidyverse | ggplot2 | e1071 | caret
+    | 📊 R | 💾 SQL | 📚 Tidyverse | 📈 ggplot2 | 🤖 e1071 | ⚙️ caret  
 
 ---
 
