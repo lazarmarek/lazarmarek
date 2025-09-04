@@ -42,17 +42,17 @@
 
     | 🐍 Python | 🔗 LangChain | 🗃️ ChromaDB | 🔥 PyTorch | 📑 Docling | 📂 Unstructured | 🤗 Hugging Face  
 
-🔹 [**Dementia Support Chatbot**](https://github.com/lazarmarek/dementia-chatbot) – Finetuned LLaMA 3.1 for more empathetic question answering  
+🔹 [**Churn Analysis for Workspace 365 (Private)**]() – Machine learning project predicting company churn with explainable features  
 
-    | 🐍 Python | 🤗 Hugging Face | 🔥 PyTorch | 🧠 TensorFlow | 🐼 Pandas | 🔢 NumPy  
+    | 🐍 Python | 🐼 Pandas | 📊 Seaborn | 🤖 scikit-learn | 📊 EDA | 🆎 A/B Testing | 🧩 SHAP | 🎯 Optuna | 🔥 PyTorch | 📬 Postman | 🌐 RESTful APIs  
 
 🔹 [**Vision-Language Models, Charts & Interpretations**](https://github.com/lazarmarek/UvA-Thesis-MLLMs-Charts-Contexts) – Extracting charts + surrounding text from research articles to study context’s impact on MLLMs' interpretative capabilities  
 
     | 🐍 Python | 📑 Docling | 🔤 NLP | 👁️ CV | 📊 EDA | 🆎 A/B Testing | 🌐 RESTful APIs | 🤖 OpenAI API 
 
-🔹 [**Churn Analysis for Workspace 365 (Private)**]() – Machine learning project predicting company churn with explainable features  
+🔹 [**Dementia Support Chatbot**](https://github.com/lazarmarek/dementia-chatbot) – Finetuned LLaMA 3.1 for more empathetic question answering  
 
-    | 🐍 Python | 🐼 Pandas | 📊 Seaborn | 🤖 scikit-learn | 📊 EDA | 🆎 A/B Testing | 🧩 SHAP | 🎯 Optuna | 🔥 PyTorch | 📬 Postman | 🌐 RESTful APIs  
+    | 🐍 Python | 🤗 Hugging Face | 🔥 PyTorch | 🧠 TensorFlow | 🐼 Pandas | 🔢 NumPy  
 
 🔹 [**Data Consultancy Project (Private)**]() – EDA & statistical modeling for cost-efficiency in tutoring programs  
 
