@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,pytorch,docker,git,bash,powershell"
+    <img src="https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,pytorch,docker,git,bash"
       alt="My Skills" />
   </a>
 </p>
