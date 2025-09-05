@@ -52,7 +52,7 @@
 
 🔹 [**Vision-Language Models, Charts & Interpretations**](https://github.com/lazarmarek/UvA-Thesis-MLLMs-Charts-Contexts) – Extracting charts + surrounding text from research articles to study context’s impact on MLLMs' interpretative capabilities  
 
-    | 🐍 Python | 📑 Docling | 🔤 NLP | 👁️ CV | 📊 EDA | 🆎 A/B Testing | 🌐 RESTful APIs | 🤖 OpenAI API 
+    | 🐍 Python | 🪟Tkinter | 📑 Docling | 🔤 NLP | 👁️ CV | 📊 EDA | 🆎 A/B Testing | 🌐 RESTful APIs | 🤖 OpenAI API 
 
 🔹 [**Dementia Support Chatbot**](https://github.com/lazarmarek/dementia-chatbot) – Finetuned LLaMA 3.1 for more empathetic question answering  
 
