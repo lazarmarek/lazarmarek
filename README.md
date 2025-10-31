@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="center"> Machine Learning Engineer | AI, ML & Data Science | Experimenting, Learning, Delivering </h2>
+<h2 align="center"> Data Scientist | AI, ML & Data Science | Experimenting, Learning, Delivering </h2>
 
 ---
 
